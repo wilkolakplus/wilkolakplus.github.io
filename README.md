@@ -1,6 +1,8 @@
+[<a href="/privacypolicy">Privacy policy</a>] [<a href="/privacypolicy">Privacy policy</a>]
+
 ## Welcome to GitHub Pages
 
-<li><a href="/privacypolicy">Privacy policy</a></li>
+
 
 
 You can use the [editor on GitHub](https://github.com/wilkolakplus/wilkolakplus.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
